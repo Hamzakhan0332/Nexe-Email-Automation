@@ -1,0 +1,19 @@
+# Google API Credentials
+credentials.json
+token.json
+
+# Logs
+nexe_email_log.csv
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+.venv/
+
+# Visual Studio
+.vs/
